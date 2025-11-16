@@ -1,6 +1,6 @@
-# Notes Sharing Platform v2 - Complete Full-Stack Application
+# Notes Sharing Platform
 
-A comprehensive notes-sharing platform built with **Node.js + Express** backend, **React 18** frontend, and **SQLite3** database. Designed for educational content management with admin controls and student-friendly interface.
+A professional full-stack notes-sharing application with syntax highlighting, analytics, and admin controls.
 
 ## Features
 
@@ -96,15 +96,6 @@ npm install
 npm start
 # App opens at http://localhost:3000
 ```
-
-## Admin Credentials
-
-**⚠️ Important: These credentials are hardcoded in the backend**
-
-- **Username:** `trainerMaster2025`
-- **Password:** `Code4NotesOnly`
-
-**Never expose these in code comments, logs, or UI.**
 
 ## API Endpoints
 
